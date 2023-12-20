@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Maicon Cardoso, @maiconcardoso
+- 👋 Olá, Eu sou Maicon Cardoso
 - 📫 Encontre-me nas demais redes sociais, https://www.instagram.com/maiconscardoso/, https://maiconcardoso.wordpress.com/
 
 <!---
