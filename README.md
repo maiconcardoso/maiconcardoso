@@ -1,5 +1,5 @@
-- 👋 Olá, Eu sou Maicon Cardoso
-- 📫 Encontre-me nas demais redes sociais, https://www.instagram.com/maiconscardoso/, https://maiconcardoso.wordpress.com/
+- 👋 Hello, I'am Maicon Cardoso, work with programming
+- 📫 Find me on other social networks, https://www.instagram.com/maiconscardoso/, https://maiconcardoso.wordpress.com/
 
 <!---
 maiconcardoso/maiconcardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
